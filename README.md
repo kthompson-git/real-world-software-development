@@ -1,0 +1,1 @@
+This repository consists of exercises from the book *Real-World Software Development: A Project-Driven Guide to Fundamentals in Java* by Raoul-Gabriel Urma and Richard Warburton.
